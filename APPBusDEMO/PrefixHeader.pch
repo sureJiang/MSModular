@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  APPBusDEMO
+//
+//  Created by JZJ on 2019/6/18.
+//  Copyright © 2019 JZJ. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "MSAppBusHeader.h"
+#import "AppDelegate.h"
+
+#endif /* PrefixHeader_pch */
